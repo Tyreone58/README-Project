@@ -14,7 +14,7 @@ You must install the following for this app to function:
 clone repo in github
 
 ## Usage:
-run node index.js
+run node index
 
 ## License:
 This repository uses the [MIT](https://opensource.org/license/mit) license.
@@ -32,5 +32,5 @@ run test
 If you have any questions, you may contact me at either
 Github: https://github.com/Tyreone58
 or
-Email: Tyreone.Sarpong@gmail.com
+Email: tyreone.sarpong@gmail.com
 
